@@ -1,0 +1,160 @@
+<html>
+<head>
+<title>TIME TABLE</title>
+<h1>TIMETABLE</h1>
+</head>
+<style>
+table,th,td{
+text-align:center;
+border:3px solid black;
+border-collapse:collapse;
+column-width:100px;
+
+}
+</style>
+
+<body>
+<table>
+<tr>
+<th>DAYS</th>
+
+<th style="color:red;">8.45AM to 9.40 AM</th>
+<th style="color:red;">9.45AM to 10.25AM</th>0
+<th style="color:green;">INTERVAL</th>
+<th style="color:red;">10.45AM to 11.30AM</th>
+<th style="color:red;">11.30AM to 12.15AM</th>
+<th style="color:green;">L<br>u<br>n<br>c<br>h</th>
+<th style="color:red;">1.15PM to 2.00PM</th>
+<th style="color:red;">2.00PM to 2.45PM</th>
+<th style="color:green;">INTERVAL</th>
+<th style="color:red;">3.00PM to 3.45PM</th>
+<th style="color:red;">3.45PM to 4.30PM</th>
+</tr>
+<tr>
+<th>MONDAY</th>
+<td style="text-align:center;">MODE</td>
+<td colspan="3">CS-1</td>
+
+
+
+<td style="text-align:center;">PHY</td>
+<td style="text-align:center;"> </td>
+<td style="text-align:center;">EIT</td>
+
+<td style="text-align:center;">PHY</td>
+<td style="text-align:center;"> </td>
+
+<td style="text-align:center;">MODE</td>
+<td style="text-align:center;">TAMIL</td>
+
+
+</tr>
+<th>TUESDAY</th>
+<td style="text-align:center;">CS-1 </td>
+<td style="text-align:center;">LIB </td>
+<td style="text-align:center;"> </td>
+<td colspan="2">EIT</td>
+<td style="text-align:center;"> </td>
+<td style="text-align:center;">PHY</td>
+<td colspan="3">CP</td>
+<td style="text-align:center;">MATLAB</td>
+</tr>
+<tr>
+<th>WEDNESDAY</th>
+<td style="text-align:center;">EIT</td>
+<td colspan="4">PHY</td>
+<td style="text-align:center;"> </td>
+<td style="text-align:center;">PHY</td>
+<td colspan="3">MODE</td>
+<td style="text-align:center;">CP</td>
+</tr>
+<tr>
+<th>THURSDAY</th>
+<td colspan="2">CP</td>
+<td style="text-align:center;"> </td>
+
+<td style="text-align:center;">MODE</td>
+
+<td style="text-align:center;">PHY</td>
+<td style="text-align:center;"> </td>
+<td style="text-align:center;">LIB </td>
+<td colspan="3">CS-1</td>
+<td style="text-align:center;">LIB </td>
+</tr>
+<tr>
+<th>FRIDAY</th>
+<td style="text-align:center;">PHY</td>
+<td style="text-align:center;">MODE</td>
+<td style="text-align:center;"> </td>
+<td colspan="2">EIT</td>
+<td style="text-align:center;"> </td>
+<td colspan="4">CP</td>
+<td style="text-align:center;">Pe.D</td>
+</tr>
+<tr>
+<th>SATURDAY</th>
+<td style="text-align:center;">EIT</td>
+<td style="text-align:center;">CS-1</td>
+<td style="text-align:center;"> </td>
+<td style="text-align:center;">PHY</td>
+<td style="text-align:center;">TAMIL</td>
+<td style="text-align:center;"> </td>
+<td style="text-align:center;">SPD</td>
+<td style="text-align:center;">MODE</td>
+<td style="text-align:center;"> </td>
+
+<td colspan="2">CP</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
